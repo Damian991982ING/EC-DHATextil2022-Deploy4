@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"BH1",
+            "description":"Polyamide thread spool",
+            "price":100,
+            "stock":10,
+            "pictureUrl":"../assets/BH1.jpg"
+
+        },
+        {
+            "id":2,
+            "title":"BH2",
+            "description":"Polyester thread spool",
+            "price":200,
+            "stock":10,
+            "pictureUrl":"../assets/BH2.jpg" 
+
+        },
+        {
+            "id":3,
+            "title":"BH3",
+            "description":"Acrilyc thread spool",
+            "price":300,
+            "stock":10,
+            "pictureUrl":"../assets/BH3.jpg" 
+
+        },
+        {
+            "id":4,
+            "title":"BH4",
+            "description":"Plasma polymerization Polyamide thread spool",
+            "price":200,
+            "stock":10,
+            "pictureUrl":"../assets/BH4.jpg" 
+
+        },
+        {
+            "id":5,
+            "title":"BH5",
+            "description":"Plasma polymerization Polyester thread spool",
+            "price":200,
+            "stock":10,
+            "pictureUrl":"../assets/BH5.jpg" 
+
+        },
+        {
+            "id":6,
+            "title":"BH6",
+            "description":"Plasma polymerization Acrylic thread spool",
+            "price":200,
+            "stock":10,
+            "pictureUrl":"../assets/BH6.jpg" 
+
+        }
+
+
+    ]
+}
