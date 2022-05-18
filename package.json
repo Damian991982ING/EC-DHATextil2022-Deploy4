@@ -2,12 +2,14 @@
   "name": "ec-dhatextil2022-damian-almada",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Damian991982ING.github.io/EC-DHATextil2022-Deploy4",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.0",
     "@testing-library/user-event": "^13.5.0",
     "boostrap": "^2.0.0",
     "firebase": "^9.8.1",
+    "gh-pages": "^4.0.0",
     "jason-server": "^3.0.0",
     "json-server": "^0.17.0",
     "react": "^18.0.0",
@@ -17,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
