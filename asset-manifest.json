@@ -1,23 +1,19 @@
 {
   "files": {
     "main.css": "/EC-DHATextil2022-Deploy4/static/css/main.dccfcb8d.css",
-    "main.js": "/EC-DHATextil2022-Deploy4/static/js/main.de0ca0f0.js",
+    "main.js": "/EC-DHATextil2022-Deploy4/static/js/main.94a294af.js",
     "static/js/787.5d56b80d.chunk.js": "/EC-DHATextil2022-Deploy4/static/js/787.5d56b80d.chunk.js",
-    "static/media/BH4.jpg": "/EC-DHATextil2022-Deploy4/static/media/BH4.5510a1e5cae545bca9bf.jpg",
-    "static/media/BH2.jpg": "/EC-DHATextil2022-Deploy4/static/media/BH2.11dd10f82df98aea14bd.jpg",
-    "static/media/BH5.jpg": "/EC-DHATextil2022-Deploy4/static/media/BH5.904852d9765b388fa23c.jpg",
-    "static/media/BH6.jpg": "/EC-DHATextil2022-Deploy4/static/media/BH6.40348aba83dca905ebab.jpg",
-    "static/media/BH1.jpg": "/EC-DHATextil2022-Deploy4/static/media/BH1.accabe5865f79a9d3026.jpg",
+    "static/media/checkout.svg": "/EC-DHATextil2022-Deploy4/static/media/checkout.a99715c598fdf7b95909ca3a7a0bf213.svg",
     "index.html": "/EC-DHATextil2022-Deploy4/index.html",
     "static/media/cart.svg": "/EC-DHATextil2022-Deploy4/static/media/cart.d146d6c3c3d8c4e2f0b994e4dfba9f7a.svg",
     "static/media/times-solid.svg": "/EC-DHATextil2022-Deploy4/static/media/times-solid.ea7c95d7120c0efcb4b16602bf9049a5.svg",
     "static/media/bars-solid.svg": "/EC-DHATextil2022-Deploy4/static/media/bars-solid.e8db7520285d01597a75c139d54e29ce.svg",
     "main.dccfcb8d.css.map": "/EC-DHATextil2022-Deploy4/static/css/main.dccfcb8d.css.map",
-    "main.de0ca0f0.js.map": "/EC-DHATextil2022-Deploy4/static/js/main.de0ca0f0.js.map",
+    "main.94a294af.js.map": "/EC-DHATextil2022-Deploy4/static/js/main.94a294af.js.map",
     "787.5d56b80d.chunk.js.map": "/EC-DHATextil2022-Deploy4/static/js/787.5d56b80d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dccfcb8d.css",
-    "static/js/main.de0ca0f0.js"
+    "static/js/main.94a294af.js"
   ]
 }
