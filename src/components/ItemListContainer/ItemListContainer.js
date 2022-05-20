@@ -2,14 +2,14 @@ import React,{useState,useEffect, useContext} from "react";
 import Loading from "../Loading/Loading";
 import ItemList from "../ItemList/ItemList";
 import "./ItemListContainer.css";
-import Products from "../../db/products";
 import { useParams } from "react-router-dom";
 import CartContext from "../../context/cartContext";
-import {collection,getDocs, getFirestore, limit, query, where} from "firebase/firestore";
+import db from "../../Firebase/FirebaseConfig.js";
+import {collection,getDocs,query, where} from "firebase/firestore";
 
 
 const getProducts =(nameCat)=> {
-    const db = getFirestore();
+    
 
         const itemCollection = collection(db, 'items');
 

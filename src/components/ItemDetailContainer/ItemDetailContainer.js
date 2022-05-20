@@ -1,13 +1,13 @@
 import React,{useState,useEffect} from "react";
 import Loading from "../Loading/Loading";
 import ItemDetail from "../ItemDetail/ItemDetail";
-import Products from "../../db/products";
+import db from "../../Firebase/FirebaseConfig.js";
 import { useParams } from "react-router-dom";
-import {doc, getDoc, getFirestore} from "firebase/firestore"
+import {doc, getDoc} from "firebase/firestore"
 
 
 const getProduct=(productId)=> {
-   const db = getFirestore();
+   
 
    const productRef = doc(db,'items', productId);
 

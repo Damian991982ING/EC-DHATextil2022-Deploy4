@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//import "./Item.css";
+import "./Item.css";
 
 const Item=({item})=>{
     
@@ -10,7 +10,7 @@ const Item=({item})=>{
         
             <div className="card">
                 
-                    <img src={item?.pictureUrl} alt="Imagen del product"/>
+                    <img src={item?.pictureUrl} alt="Imagen del producto"/>
                 
                 <div className="box">
                     <h3 title={item?.title}>

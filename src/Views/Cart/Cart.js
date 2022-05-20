@@ -42,7 +42,7 @@ const Cart=()=>{
 
         }
         <div className="total">
-            <Link to={'/payment'}>Payment</Link>
+            <Link to={'/checkout'}>Payment</Link>
             <h3>Total:${getTotal()} </h3>
         </div>
         <div className="details">
